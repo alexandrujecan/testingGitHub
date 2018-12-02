@@ -1,1 +1,2 @@
-# testingGitHub
+# testingGitHub 
+educational purposes
