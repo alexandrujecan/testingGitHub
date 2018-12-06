@@ -1,2 +1,2 @@
 # testingGitHub 
-educational purposes
+only for testing purposes
